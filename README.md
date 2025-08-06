@@ -12,6 +12,7 @@ Each subfolder in this repository contains a self-contained project or experimen
 - 📁 `mlr_class`: Multivariate regression and variable selection for medical datasets.
 - 📁 `prediction_surface`: Visualizing prediction boundaries and surfaces for various ML models.
 - 📁 `SafeDriveAI` *(WIP)*: An AI-based prototype for promoting safer driving behavior using computer vision.
+- 📁 `Scoring+AI` *(WIP)*: A short demo of scoring systems and clustering algorithms.
 
 ## 📊 Tableau Dashboards
 
