@@ -20,7 +20,7 @@ Tech:
 Python, FastAPI, React, SQLite, ChromaDB, SentenceTransformers, local LLM API
 
 Repo:
-PASTE_LINK_HERE
+https://github.com/Charles9412/business-intelligence-ai-assistant
 
 ### Vision-Based Gesture Drone Controller
 Real-time computer vision system for controlling a DJI Tello drone using hand gestures.
@@ -36,7 +36,7 @@ Tech:
 Python, OpenCV, Tello SDK, computer vision
 
 Repo:
-PASTE_LINK_HERE
+https://github.com/Charles9412/VBGDC
 
 ### Customer Churn Analytics Story
 Interactive Tableau story analyzing customer churn rate, churn reasons, payment type behavior, demographics, and service indicators.
@@ -51,10 +51,10 @@ Tech:
 Tableau Public, BI storytelling, churn analysis
 
 Dashboard:
-PASTE_TABLEAU_LINK_HERE
+https://public.tableau.com/app/profile/carlos.miranda.rocha/viz/Sample1_17148919910730/DatabelChurners
 
 Repo:
-PASTE_LINK_HERE
+https://github.com/Charles9412/customer-churn-tableau-story
 
 ## Skills
 
